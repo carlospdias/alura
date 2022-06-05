@@ -59,6 +59,7 @@ target
 .sts4-cache/
 .project
 .classpath
+.faces-config.xml.jsfdia
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
 
