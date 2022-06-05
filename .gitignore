@@ -57,6 +57,9 @@ target
 .scala_dependencies
 .worksheet
 .sts4-cache/
+.project
+.classpath
+
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
 
 
